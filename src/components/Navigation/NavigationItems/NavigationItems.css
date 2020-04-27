@@ -8,9 +8,8 @@
     height: 100%;
 }
 
-/* Desktop */
 @media (min-width: 500px) {
     .NavigationItems {
-       flex-flow: row;
+        flex-flow: row;
     }
 }

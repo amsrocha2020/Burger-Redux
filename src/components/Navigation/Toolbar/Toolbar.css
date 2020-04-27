@@ -18,12 +18,11 @@
 }
 
 .Logo {
-  height: 80%;
+    height: 80%;
 }
 
-/* Mobile */
 @media (max-width: 499px) {
-  .DesktopOnly {
-    display: none;
-  }
+    .DesktopOnly {
+        display: none;
+    }
 }
